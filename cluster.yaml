@@ -20,4 +20,5 @@ folder_sharing:
     enabled: false
     source: .
     destination: /home/core/shared
-
+# timezone: Europe/Lisbon
+timezone: UTC
